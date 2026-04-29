@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 ## About Us
 
 The Worlds yummiest recipes designed on a user friendly blog that's been designed by foodies for foodies.
-We seek to prioritize our readers experience both on our site and in the kitchen.
+We seek to prioritize our readers experiences both on our site and in the kitchen.
 Major updates and any technical announcements will be made here.
 
 ## Our Mission
 
-To continue bringing fresh food, drink and dessert content to all our readers in the most delicious way we can by continueing to keep a minimal ad experience, mobile friendly design, keep all features on our site as easy to use as possible. Most food sites on the Internet are currently too bloated, heavy and unfriendly to use. We put user experience on our site first keeping things light and fast wherever we can.
+To continue bringing fresh food, drink and dessert content to all our readers in the most delicious way possiblen by continueing to keep a minimal ad experience, mobile friendly design, keeping all features on our site as easy to use and access frictionless as possible. Most food sites on the Internet are currently too bloated, heavy and unfriendly to use. We put our users experience on our site first keeping things light and quick loading wherever we can.
 
 ## My Technical Background
 
@@ -44,11 +44,11 @@ Ongoing work includes site performance improvements and code enhancements, mobil
 
 ## Who Is This Repo Maintained By?
 
-This page is maintained by me, Vishal. Author and updateer of everyday cooking recipes. This is for maintenance updates and upgrades or exciting announcements for future improvements.
+This page is maintained by me, Vishal. Author and updater of everyday cooking recipes. This repo is for maintenance updates and upgrades or exciting announcements for future improvements as well as keeping track of any bugs/technical issues that may occur.
 
 ## How To Contact Us:
 
-Found a bug, having any technical issues on our site or simply want to send us feedback for future improvements on the site? You can reach us through our official contact form over here:
+Found a bug, having any technical issues on our site or simply want to send us feedback for future improvements on the site? You can reach us on here as well as through our official contact form over here:
 https://superyummyrecipes.com/contact/
 
 Here are some helpful links to our various social profile pages and other helpful links on our LinkedTree page:
