@@ -53,3 +53,6 @@ https://superyummyrecipes.com/contact/
 
 Here are some helpful links to our various social profile pages and other helpful links on our LinkedTree page:
 https://linktr.ee/superyummyrecipes
+
+Quick links for all our recipe category pages:
+https://beacons.ai/superyummyrecipes
