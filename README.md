@@ -40,7 +40,11 @@ Recipes are tested in house, edited for clear user friendly steps, frequently as
 
 ## Current and Ongoing Work:
 
-Ongoing work includes site performance improvements and code enhancements, mobile usability testing, fresh new content, recipe updates, core web vitals improvements. 
+Ongoing work includes site performance improvements and code enhancements, mobile usability testing, fresh new content, recipe updates, core web vitals improvements.
+
+## Latest Updates
+
+June 2026 - Expertly Curated Pairing Suggestions: After readers requested this feature multiple times we implemented this into our site to provide more helpful insights and more easy recipe ideas by giving our visitors suggestions for pairing foods, dessert and drinks together effortlessly to help complement each other more. This feature can now be seen on all recipes across the site now to provide valueable info.
 
 ## Who Is This Repo Maintained By?
 
