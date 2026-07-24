@@ -60,3 +60,6 @@ https://linktr.ee/superyummyrecipes
 
 Quick links for all our recipe category pages:
 https://beacons.ai/superyummyrecipes
+
+Share Worthy Food Articles:
+https://medium.com/@yumrecipes
